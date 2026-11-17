@@ -1,0 +1,6 @@
+{
+  "name": "ClearLedger",
+  "description": "Automated invoice management, payment links, revenue analytics, and smart email payment reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
